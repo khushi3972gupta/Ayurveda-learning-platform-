@@ -14,7 +14,7 @@
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/Ayushi22-coder/AyurVerse.git
+https://github.com/khushi3972gupta/AyurVerse.git
 
 2. Install Backend Requirements
 Make sure you have Python 3.7 or higher. Then install Flask:
